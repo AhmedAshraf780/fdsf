@@ -453,7 +453,7 @@ body {
     position: absolute;
     width: 60px;
     height: 60px;
-    background: url('assets/image.png') no-repeat center/contain;
+    background: url('../assets/image.png') no-repeat center/contain;
 
 }
 
@@ -726,5 +726,6 @@ body {
         object-fit: cover;
         display: block;
     }
+
 
 }
